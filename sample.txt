@@ -1,0 +1,10 @@
+google.com
+amazon.com
+youtube.com
+facebook.com
+ebay.com
+wikipedia.org
+twitter.com
+yahoo.com
+reddit.com
+yelp.com
