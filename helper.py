@@ -1,4 +1,4 @@
-import urllib3
+import urllib2
 import bs4
 import lxml
 import cssutils
