@@ -1,5 +1,1 @@
-# whothefont
-Q: Ever wonder what fonts are being used by the top websites?  
-A: ...
-
-Uses Python 2.
+Simple script for extracting font families from websites. Uses Python 2.7
